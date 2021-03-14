@@ -1,0 +1,114 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color:grey;
+}
+
+nav{
+    text-align: center;
+    font-size: 20px;
+    border: 3px solid green;
+    text-decoration:none;
+    margin:10px ;
+    padding:10px;
+    border-radius:10px;
+}
+
+nav a{
+    text-decoration:none;
+    color: rgb(124, 110, 110);
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 0px;
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    background-color:grey;
+}
+
+.Njv{
+    border: 10px solid rgba(175, 14, 14, 0.685);
+    width: 250px;
+    margin: 15px;
+ 
+}
+
+
+.Njv1{
+    font-size: 20px;
+    border-radius:10px;
+     text-align: center;
+    border: 3px solid green;
+    text-decoration:none;
+    margin:10px ;
+    padding:10px;
+
+}
+
+main a{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(179, 40, 40);
+    border: 3px solid  rgba(252, 101, 1, 0.795);
+    text-decoration:none;
+    margin:190px ;
+    padding:10px;
+    border-radius:10px;
+    background-color: rgba(252, 101, 1, 0.795);
+}
+
+footer a{
+    text-decoration:none;
+    font-size: 20px;
+    color: blue;
+    border-radius:10px;
+    margin : 0px;
+}
+
+h3{
+   text-align: center;
+    font-size: 50px;
+    background-color:rgba(17, 88, 100, 0.781);  
+}
+
+footer {
+    background-color: rgb(33, 196, 96);
+}
+
+footer p{
+    color:blue ;
+    background-color: white;
+}
+
+.Njv2{
+     text-align: center;
+    font-size: 20px;
+    color: rgba(82, 14, 14, 0.767);
+    border: 3px solid  rgba(32, 117, 11, 0.555);
+    text-decoration:none;
+    margin:190px ;
+    padding:10px;
+    border-radius:10px;
+    background-color: rgb(24, 129, 10);
+
+}
+
+.Njv3{
+    border: 10px solid rgba(175, 14, 14, 0.685);
+}
+
+main{
+      background-color: rgba(132, 148, 138, 0.774);
+         margin : 0px;
+}
+
+.Hju9{
+    font-size: 20px;
+}
+
+header{
+   margin : 0px;
+}
